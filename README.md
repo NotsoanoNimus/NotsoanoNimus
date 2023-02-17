@@ -15,10 +15,10 @@ I'm currently happily chugging along in my rigorous daily engineering with [@gal
 
 ### Stats
 
-[![My GitHub Stats](https://raw.githubusercontent.com/NotsoanoNimus/github-stats/master/generated/overview.svg#gh-dark-mode-only)]()
-[![My GitHub Language Stats](https://raw.githubusercontent.com/NotsoanoNimus/github-stats/master/generated/languages.svg#gh-dark-mode-only)]()
+![My Stats](https://raw.githubusercontent.com/NotsoanoNimus/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![My Languages](https://raw.githubusercontent.com/NotsoanoNimus/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 
-<sub><sup>*Stats generated with [github-stats](https://github.com/jstrieb/github-stats).*</sup></sub>
+<sub><sup>*Stats generated with love by [github-stats](https://github.com/jstrieb/github-stats).*</sup></sub>
 
 
 <!--
