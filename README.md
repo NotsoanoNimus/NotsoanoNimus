@@ -15,8 +15,10 @@ I'm currently happily chugging along in my rigorous daily engineering with [@gal
 
 ### Stats
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=NotsoanoNimus&count_private=true&theme=tokyonight&showicons=true)]()
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=NotsoanoNimus&langs_count=5&theme=tokyonight)]()
+[![My GitHub Stats](https://raw.githubusercontent.com/NotsoanoNimus/github-stats/master/generated/overview.svg#gh-dark-mode-only)]()
+[![My GitHub Language Stats](https://raw.githubusercontent.com/NotsoanoNimus/github-stats/master/generated/languages.svg#gh-dark-mode-only)]()
+
+<sub><sup>*Stats generated with [github-stats](https://github.com/jstrieb/github-stats).*</sup></sub>
 
 
 <!--
