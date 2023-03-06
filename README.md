@@ -1,8 +1,8 @@
 ### Work
 
-Former infrastructure security administrator turned software developer (for a security company).
+Former infrastructure security administrator turned software developer.
 
-I'm currently happily chugging along in my rigorous daily engineering with [@galactic-advisors](https://github.com/galactic-advisors/).
+Whether personal knowledge, Stack Overflow, or some other admixture of persistence and luck, I ___will___ find the solution to a problem until it stops haunting me.
 
 
 ### Long-term Plans/Goals
