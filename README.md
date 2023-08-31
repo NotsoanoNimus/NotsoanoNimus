@@ -1,15 +1,18 @@
 ### Work
 
-Former infrastructure security administrator turned software developer.
+Former infrastructure security administrator turned software engineer.
+
+_Developing_ a taste for applicable architecture and design patterns where merited.
 
 Whether personal knowledge, Stack Overflow, or some other admixture of persistence and luck, I ___will___ find the solution to a problem until it stops haunting me.
 
 
 ### Long-term Plans/Goals
 
-- 🌱 Learn Rust.
-- 👯 Contribute to public repositories.
-- 💓 Create helpful projects people will love to integrate into their environments.
+- 🌱 Learn and apply advanced C++ techniques/concepts.
+- 🎓 Complete my Master's degree program.
+- 👯 Contribute to public repositories when possible.
+- 💓 Create helpful projects and packages which people will love to integrate into their environments.
 - 🕵️ Do more [independent security research](https://xmit.xyz/security/)!
 
 
@@ -17,8 +20,6 @@ Whether personal knowledge, Stack Overflow, or some other admixture of persisten
 
 ![My Stats](https://raw.githubusercontent.com/NotsoanoNimus/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![My Languages](https://raw.githubusercontent.com/NotsoanoNimus/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-
-<sub><sup>*Stats generated with love by [github-stats](https://github.com/jstrieb/github-stats).*</sup></sub>
 
 
 <!--
