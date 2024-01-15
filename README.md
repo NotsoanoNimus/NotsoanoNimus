@@ -1,6 +1,6 @@
 ### Long-term Plans/Goals
 
-- 🌱 Learn and Apply: **Rust**, **Haskell** (_I use Haskell, btw_), **Go**, & **Elixir**.
+- 🌱 Learn and Apply: **Rust**, **Haskell** (_I use Haskell, btw_), **Golang**, & **Elixir**.
 - 🎓 Complete my Master's degree program (_thesis project ongoing_).
 - 👯 Give back to the open-source community by contributing to a few projects.
 - 💓 Create freeware projects bundled with love and joy.
@@ -9,13 +9,13 @@
 
 ### Languages
 I have reasonable fluency in:
-- C
-- C#
-- PHP
-- Java
-- Shell
-- JavaScript/TypeScript
-- Other non-languages like HTML, CSS, SQL, etc.
+- ©️ C
+- #️⃣ C#
+- 🐘 PHP
+- 🍵 Java
+- 💲 Shell
+- 🌐 JavaScript/TypeScript
+- 🤷‍♂️ Other non-languages like HTML, CSS, SQL, etc.
 
 
 ### Stats
@@ -40,8 +40,8 @@ Tech support
 ```
 
 Consumed by:
-  - Never-ending pursuit of education
-  - Overly applying ancient software design patterns
+  - A never-ending pursuit of education and curiosity
+  - Over-application of ancient software design patterns
   - Obsessing over valgrind reports
   - Applying ADHD braindrain superpowers to cycle between tasks
 
