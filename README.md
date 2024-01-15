@@ -1,38 +1,48 @@
-### Work
-
-Former infrastructure security administrator turned software engineer.
-
-_Developing_ a taste for applicable architecture and design patterns where merited.
-
-Whether personal knowledge, Stack Overflow, or some other admixture of persistence and luck, I ___will___ find the solution to a problem until it stops haunting me.
-
-
 ### Long-term Plans/Goals
 
-- 🌱 Learn and apply advanced C++ techniques/concepts.
-- 🎓 Complete my Master's degree program.
-- 👯 Contribute to public repositories when possible.
-- 💓 Create helpful projects and packages which people will love to integrate into their environments.
-- 🕵️ Do more [independent security research](https://xmit.xyz/security/)!
+- 🌱 Learn and Apply: **Rust**, **Haskell** (_I use Haskell, btw_), **Go**, & **Elixir**.
+- 🎓 Complete my Master's degree program (_thesis project ongoing_).
+- 👯 Give back to the open-source community by contributing to a few projects.
+- 💓 Create freeware projects bundled with love and joy.
+- 🕵️ Do more [independent security research](https://xmit.xyz/security/) for fun, temporary highs, and lulz.
+
+
+### Languages
+I have reasonable fluency in:
+- C
+- C#
+- PHP
+- Java
+- Shell
+- JavaScript/TypeScript
+- Other non-languages like HTML, CSS, SQL, etc.
 
 
 ### Stats
+Some of these might be a little skewed based on how they're collected and generated.
 
 ![My Stats](https://raw.githubusercontent.com/NotsoanoNimus/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![My Languages](https://raw.githubusercontent.com/NotsoanoNimus/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 
 
-<!--
-**NotsoanoNimus/NotsoanoNimus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Miscellaneous
 
-Here are some ideas to get you started:
+My career track:
+```
+Tech support
+  `-> Escalations engineer
+  `-> Sysadmin (Linux & Windows)
+  `-> Systems analyst (cybersecurity)
+  `-> Framework developer
+  `-> Full-stack engineer
+  `---> Lead
+  `-> Senior software engineer - Cybersecurity
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Consumed by:
+  - Never-ending pursuit of education
+  - Overly applying ancient software design patterns
+  - Obsessing over valgrind reports
+  - Applying ADHD braindrain superpowers to cycle between tasks
+
+Whether personal knowledge, Stack Overflow, or some other admixture of persistence and luck, I ___will___ find the solution to a problem until it stops haunting me.
