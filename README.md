@@ -1,6 +1,6 @@
 ### Long-term Plans/Goals
 
-- 🌱 Learn and Apply: **Rust**, **Haskell** (_I use Haskell, btw_), **Golang**, & **Elixir**.
+- 🌱 Learn and Apply: **Rust**, **Haskell**, **Golang**, & **Elixir**.
 - 🎓 Complete my Master's degree program (_thesis project ongoing_).
 - 👯 Give back to the open-source community by contributing to a few projects.
 - 💓 Create freeware projects bundled with love and joy.
@@ -17,6 +17,8 @@ I have reasonable fluency in:
 - 🌐 JavaScript/TypeScript
 - 🤷‍♂️ Other non-languages like HTML, CSS, SQL, etc.
 
+<sub><sub>_"I use Arch, btw" // "Rustaceans rise up" // "just write it in Haskell??"_</sub></sub>
+
 
 ### Stats
 Some of these might be a little skewed based on how they're collected and generated.
@@ -29,7 +31,7 @@ Some of these might be a little skewed based on how they're collected and genera
 
 My career track:
 ```
-Tech support
+  --> Tech support
   `-> Escalations engineer
   `-> Sysadmin (Linux & Windows)
   `-> Systems analyst (cybersecurity)
