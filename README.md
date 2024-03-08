@@ -9,7 +9,7 @@
 
 ### Languages
 I have reasonable fluency in:
-- ©️ C/C==
+- ©️ C/C++
 - #️⃣ C#
 - 🐘 PHP
 - 🍵 Java
