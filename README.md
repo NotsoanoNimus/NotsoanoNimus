@@ -9,15 +9,13 @@
 
 ### Languages
 I have reasonable fluency in:
-- ©️ C
+- ©️ C/C==
 - #️⃣ C#
 - 🐘 PHP
 - 🍵 Java
 - 💲 Shell
 - 🌐 JavaScript/TypeScript
 - 🤷‍♂️ Other non-languages like HTML, CSS, SQL, etc.
-
-<sub><sub>_"I use Arch, btw" // "Rustaceans rise up" // "just write it in Haskell??"_</sub></sub>
 
 
 ### Stats
@@ -38,7 +36,7 @@ My career track:
   `-> Framework developer
   `-> Full-stack engineer
   `---> Lead
-  `-> Senior software engineer - Cybersecurity
+  `-> Senior software engineer - BSP/Cybersecurity
 ```
 
 Consumed by:
