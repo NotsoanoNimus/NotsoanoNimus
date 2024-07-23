@@ -1,7 +1,7 @@
 ### Long-term Plans/Goals
 
 - 🌱 Learn and Apply: **Rust**, **Haskell**, **Golang**, & **Elixir**.
-- 🎓 Complete my Master's degree program (_thesis project ongoing_).
+- 🎓 ~~Complete my Master's degree program (_thesis project ongoing_).~~ &rarr; https://dx.doi.org/10.7302/23540
 - 👯 Give back to the open-source community by contributing to a few projects.
 - 💓 Create freeware projects bundled with love and joy.
 - 🕵️ Do more [independent security research](https://xmit.xyz/security/) for fun, temporary highs, and lulz.
