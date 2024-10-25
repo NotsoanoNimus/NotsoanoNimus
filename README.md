@@ -2,7 +2,8 @@
 
 - 🌱 Learn and apply: **Haskell**, **Elixir**, & **Golang**.
 - 💓 Create freeware projects bundled with love and joy.
-- 🚧 Inch closer day by day to daily-driving [my own OS](https://github.com/NotsoanoNimus/CrOwS).
+- 🚧 Continue learning through consistent tinkering with [my own OS](https://github.com/NotsoanoNimus/CrOwS).
+  - Started _2024-10-17_ and hoping to bring it up into 'userland' by around 2025-06-01. Stay tuned. 😉
 - 🕵️ Do more [personal security research](https://xmit.xyz/security/) for fun, temporary highs, and lulz.
 
 
