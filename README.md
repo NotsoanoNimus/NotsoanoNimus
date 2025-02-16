@@ -10,6 +10,7 @@
 ### Current Fixation(s)
 - 🧮 Creating a `gnu-efi`-like UEFI library in C3 (in progress, currently private).
 - 🤓 Occasionally contributing to [gnu-efi](https://github.com/ncroxon/gnu-efi) itself.
+- ⛰️ Contributing where I can to the C3 language and development of [the C3 compiler](https://github.com/c3lang/c3c).
 - ⏰ Getting beyond the ramdisk-loading UEFI application for my personal OS project.
 
 
