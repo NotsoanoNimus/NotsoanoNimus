@@ -5,6 +5,8 @@
 - 🚧 Continue learning through consistent tinkering with [my own OS](https://github.com/NotsoanoNimus/CrOwS).
 - 🕵️ Do more [personal security research](https://xmit.xyz/security/) for fun, temporary highs, and lulz.
 
+***NOTE***: I'm currently in the middle of a development break due to a vacation which started on **Sept 4th** and due to a new _additional_ role I've acquired which starts on **Sept 29th**. Progress on projects may be slowed for a little while.
+
 
 ### Current Fixation(s)
 - 🚗 Chewing on CAN bus hacks and vehicular networking technology - follow me as I iterate at [FlexIC](https://github.com/NotsoanoNimus/FlexIC).
@@ -22,25 +24,4 @@ I have reasonable fluency in:
 - 🐘 PHP
 - #️⃣ C#
 - 🌐 Intermediate web dev (JS/TS, HTML, CSS, SQL, etc.)
-- 📊 Automation technology (IaC, AWS, serverless, etc.)
-
-
-### Stats
-![My Stats](https://raw.githubusercontent.com/NotsoanoNimus/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![My Languages](https://raw.githubusercontent.com/NotsoanoNimus/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-
-<sup>_Some of these might be a little skewed based on whichever organizations I'm part of at the moment._</sup>
-
-
-### My Career Track
-```
-  `-> Technical support
-  `---> Escalations engineer
-  `-> Sysadmin (Linux & Windows)
-  `---> Systems analyst (cybersecurity)
-  `---> Framework developer
-  `-> Full-stack engineer
-  `---> Lead
-  `-> Embedded systems engineer
-  `---> Software specialist
-```
+- 📊 Automation technologies (IaC, AWS, serverless, etc.)
