@@ -1,7 +1,7 @@
 ### Recent Fixations
 - 3️⃣ Contributions to the [C3 language](https://github.com/c3lang/c3c)
 - 🔐 Post-quantum cryptography (both theory &amp; implementation)
-- ♟️ Chess &amp; Chess Programming (watch me [get rekt](https://www.chess.com/member/kernelcrow) in real-time)
+- ♟️ Chess &amp; Chess Programming
 - 👢 Bootloader &amp; Firmware Development
 
 ### Find Me 🔎
@@ -14,6 +14,7 @@
 
 ### Reasonable Fluencies
 - ©️ C/C++/C3
+- 🐫 Perl
 - 🦀 Rust
 - 💲 Bash &amp; PowerShell
 - 🐘 PHP
